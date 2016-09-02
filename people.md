@@ -52,7 +52,7 @@ Zack Cohen
 
 Mario Muscarella
 
-+ email:
-+ about me:
++ email: mmuscar@illinois.edu
++ about me: I am new to the O'Dwyer Lab. I got my PhD from Indiana University. I switched universities as a Phd student. Before that, I lived on an island and studies bacteria in marshes. 
 
 
