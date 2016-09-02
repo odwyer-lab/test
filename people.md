@@ -19,8 +19,8 @@ Stacey Butler
 
 Philippe Doucet Beaupré
 
-+ email:
-+ about me:
++ email: doucetb2@illinois.edu
++ about me: It's one l two p
 
 Nick LaRacuente
 
