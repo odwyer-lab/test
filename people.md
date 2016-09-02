@@ -24,8 +24,8 @@ Philippe Doucet Beaupré
 
 Nick LaRacuente
 
-+ email:
-+ about me:
++ email: laracue2
++ about me: Another Nick, another physicist...
 
 Nick Sherer
 
