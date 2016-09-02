@@ -5,7 +5,7 @@
 
 James O'Dwyer
 
-```james<-xyz```
+james<-xyz
 
 + email:
 + about me:
