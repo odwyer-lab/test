@@ -29,8 +29,8 @@ Nick LaRacuente
 
 Nick Sherer
 
-+ email:
-+ about me:
++ email: nashere2@illinois.edu
++ about me: Kuhlman lab member working on theory with O'Dwyer Lab.
 
 Nick Sutton
 
