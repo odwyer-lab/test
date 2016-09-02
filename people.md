@@ -1,7 +1,7 @@
-## O'Dwyer Lab Personnel
+# O'Dwyer Lab Personnel
+-
 
-
-### _PI_
+### _Principal Investigator_
 
 James O'Dwyer
 
